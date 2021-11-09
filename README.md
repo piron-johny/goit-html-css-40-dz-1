@@ -1,3 +1,1 @@
-# GoIT_40
-# HTML/CSS 
-# HW 1
+# GoIT_40_HTML/CSS_HW 1
